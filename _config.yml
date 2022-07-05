@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
 title:            "TerryLiao|Unity开发|技术博客"
 description:      "欢迎来到 IT_TerryLiao「技术博客」侃侃理想、谈谈人生、敲敲代码。"
-url:               https://baidu.com    #https://lamdota2.github.io/lamdota3.github.io/ # 域名
-signoff:          "764424567" # Your name
+url:               https://lamdota2.github.io/lamdota3.github.io/    #https://lamdota2.github.io/lamdota3.github.io/ # 域名
+signoff:          "terry" # Your name
 facebook_appid:   #764424567
 google_analytics: UA-101222464-1
 share:            true 
@@ -13,12 +13,6 @@ gems: [jekyll-paginate]
 links:
   - name:         首页
     url:          /
-    external:     false
-  - name:         日常
-    url:          /pages/u3daily
-    external:     false
-  - name:         插件
-    url:          /pages/u3plugin
     external:     false
   - name:         游戏
     url:          /pages/u3game
